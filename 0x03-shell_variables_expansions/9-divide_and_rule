@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "$(($POiWER / $DIVIDE))" | export POWER=42784 | export DIVIDE=32
